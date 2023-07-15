@@ -1,121 +1,15 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455 ;
-  background-color: #FFFFFF;
+  color: #434455;
+  background-color: #ffffff;
 }
-:root{
-    --primery-font:"Roboto", sans-serif;
-    --primery-color: #434455 ;
-    --primery-backgroundcolor: #FFFFFF;
-
+:root {
+  --primery-font: "Roboto", sans-serif;
+  --primery-color: #434455;
+  --primery-backgroundcolor: #ffffff;
 }
-.header-logo  {
-    color:  #2e2f42;
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 800;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-  }
-  .header-logo-web  {
-    color: #4d5ae5;
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 800;
-    line-height: 1.17
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-  }
-a {text-decoration: none;}
-
-.header-link{
-font-size: 16px;
-font-weight: 500;
-line-height:  1.50
-letter-spacing: 0.2em;
-
-}
-.address-item {
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height:  1.50
-    letter-spacing: 0.02em;
-}
-.hero{ background-color: #2E2F42;}
-
-.hero-title{
-color: #FFF;
-font-size: 56px;
-font-weight: 700;
-line-height:  1.07
-letter-spacing: 0.02em;
-text-align: center;
-}
-.hero-but{
-    color:  #FFF;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.50
-letter-spacing: 0.04em;
-background: #4D5AE5;
-}
-
-.advantages-subtitle{
-    color: #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height:  1.20
-letter-spacing: 0.2em;
-}
-.advantages-text{
- color:  #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.50
-letter-spacing: 0.02em;
-}
- li {
-    list-style-type: none;
-}
-.main-titel{
-    color:  #2E2F42;
-text-align: center;
-font-size: 36px;
-font-weight: 700;
-line-height:  1.11
-letter-spacing: 0.02em;
-text-transform: capitalize;
-}
-.team-titel{
-    color:  #2E2F42;
-text-align: center;
-font-size: 36px;
-font-weight: 700;
-line-height: 1.11
-letter-spacing: 0.02em;
-text-transform: capitalize;
-}
-.team-subtitel{
-    color: #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height:  1.20
-letter-spacing: 0.02em;
-}
-.team-text{
-    color:  #434455;
-font-size: 16px;
-font-weight: 400;
-line-height:  1.50
-letter-spacing: 0.02;
-}
-.footer{
-    background-color: #2E2F42;
-}
-.footer-logo{
-    color: #F4F4FD;
+.header-logo {
+  color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 800;
@@ -123,53 +17,163 @@ letter-spacing: 0.02;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.footer-logo-web{
-    color: #4d5ae5;
+.header-logo-web {
+  color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 800;
-  line-height: 1.17
+  line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;}
-.footer-text{
-    color:  #F4F4FD;
-    font-size: 16px;
-    font-weight: 400;
-    line-height:1.50
-    letter-spacing: 0.02;}
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+}
 
-    .main-btn{
-        color:#4D5AE5;
-        text-align: center;
-        font-family: Roboto;
-        font-size: 16px;
-        font-weight: 500;
-        line-height:  1.50
-        letter-spacing: 0.04em;
+.header-link {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.2em;
 }
-.main-btn-all{
-    color:  #FFF;
-text-align: center;
-font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height:  1.50
-letter-spacing: 0.04em;
-    background:  #404BBF;
+.address-item {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-.main-img-title{
-    color: #2E2F42;
-font-family: Roboto;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.20
-letter-spacing: 0.02em;
+.hero {
+  background-color: #2e2f42;
 }
-.main-img-text{
-    color: #434455;
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.50
-letter-spacing: 0.02em;
+
+.hero-title {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.hero-but {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background: #4d5ae5;
+}
+
+.advantages-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.2em;
+}
+.advantages-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+li {
+  list-style-type: none;
+}
+.main-titel {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.team-titel {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.team-subtitel {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.team-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-logo {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-logo-web {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-text {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02;
+}
+
+.main-btn {
+  color: #4d5ae5;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.main-btn-all {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background: #404bbf;
+}
+.main-img-title {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.main-img-text {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
