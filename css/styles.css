@@ -55,6 +55,22 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
 }
+.hero-but:focus {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background: #404bbf;
+}
+.hero-but:hover {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background: #404bbf;
+}
 .hero-but {
   color: #fff;
   font-size: 16px;
