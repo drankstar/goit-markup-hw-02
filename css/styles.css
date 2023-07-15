@@ -4,7 +4,10 @@ body {
   background-color: #FFFFFF;
 }
 :root{
-    
+    --primery-font:"Roboto", sans-serif;
+    --primery-color: #434455 ;
+    --primery-backgroundcolor: #FFFFFF;
+
 }
 .header-logo  {
     color:  #2e2f42;
