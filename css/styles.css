@@ -12,7 +12,7 @@ body {
   --white: #FFF;
   --cloud: #F4F4FD;
   --ocean: #404BBF;
-  --cornflower: #E7E9FC;
+  --cornflower: #E7E9FC;}
 .list {
   list-style: none;
 }
@@ -29,7 +29,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.header-logo-studio {
+.header-logo-studio{
     color: var(--navyblue, #2E2F42);
     font-family: "Raleway", sans-serif
     font-size: 18px;
@@ -38,6 +38,7 @@ body {
     line-height:  1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+
 }
 
 .header-link {
