@@ -149,7 +149,8 @@ body {
 .team {
   background-color: var(--cloud, #f4f4fd);
 }
-.team-list {
+.team-list,
+.team-item {
   background-color: #fff;
 }
 .team-titel {
