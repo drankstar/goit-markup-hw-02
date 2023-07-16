@@ -20,22 +20,24 @@ body {
   text-decoration: none;
 }
 .hero-logo {
-  color: var(--iris, #4D5AE5);
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+    color: var(--iris, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height:  1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .header-logo-studio {
-  color: var(--navyblue, #2E2F42);
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+    color: var(--navyblue, #2E2F42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height:  1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .header-link {
@@ -73,7 +75,7 @@ font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height:  1.50%
+line-height:  1.50;
 letter-spacing: 0.02em;
 }
 
@@ -84,7 +86,7 @@ letter-spacing: 0.02em;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height:  1.50%
+line-height:  1.50;
 letter-spacing: 0.02em;
 }
 
