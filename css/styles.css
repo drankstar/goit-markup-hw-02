@@ -49,13 +49,8 @@ body {
   letter-spacing: 0.02em;
 }
 .header-link:hover,
-.header-link:focus   { 
+.header-link:focus  { 
     color: var(--ocean, #404BBF);
-    font-family: Roboto;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em
 }
 
 .address{
@@ -82,12 +77,6 @@ letter-spacing: 0.02em;
 .address-link:hover,
 .address-link:focus{
  color: var(--ocean, #404BBF);
- font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height:  1.50;
-letter-spacing: 0.02em;
 }
 
 .hero {
