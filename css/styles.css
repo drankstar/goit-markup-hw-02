@@ -211,6 +211,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: var(--cloud, #f4f4fd);
 }
 
 .main-img-title {
