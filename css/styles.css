@@ -55,6 +55,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em
 }
+
 .address{
     font-style: normal
 }
@@ -75,11 +76,18 @@ font-weight: 400;
 line-height:  1.50%
 letter-spacing: 0.02em;
 }
+
 .address-link:hover,
 .address-link:focus{
  color: var(--ocean, #404BBF);
+ font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height:  1.50%
+letter-spacing: 0.02em;
 }
-}
+
 .hero {
   background-color: var(--navyblue, #2E2F42);
 }
