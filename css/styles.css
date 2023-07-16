@@ -146,10 +146,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team-list,
-.team {
-  background-color: var(--cloud, #f4f4fd);
-}
 .team-titel {
   color: var(--navyblue, #2e2f42);
   text-align: center;
@@ -158,6 +154,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  background-color: var(--cloud, #f4f4fd);
 }
 .team-subtitel {
   color: var(--navyblue, #2e2f42);
@@ -165,14 +162,17 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  background-color: var(--cloud, #f4f4fd);
 }
 .team-text {
   color: var(--slate, #434455);
+  background-color: var(--cloud, #f4f4fd);
 
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  background-color: var(--cloud, #f4f4fd);
 }
 .footer {
   background-color: var(--navyblue, #2e2f42);
