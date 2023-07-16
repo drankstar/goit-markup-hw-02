@@ -124,7 +124,7 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.02em;
 }
 .advantages-text {
   color: var(--slate, #434455);
@@ -143,6 +143,9 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+.team {
+  background-color: var(--cloud, #f4f4fd);
 }
 .team-titel {
   color: var(--navyblue, #2e2f42);
@@ -166,7 +169,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .footer {
   background-color: var(--navyblue, #2e2f42);
@@ -194,7 +197,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 .main-btn {
