@@ -217,7 +217,7 @@ body {
 .main-btn:hover,
 .main-btn:focus {
   background-color: var(--ocean, #404bbf);
-  color: var(--cloud, #ffffff);
+  color: var(--white, #fff);
 }
 
 .main-img-title {
