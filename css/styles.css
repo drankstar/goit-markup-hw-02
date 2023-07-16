@@ -146,7 +146,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team {
+.team-list {
   background-color: var(--cloud, #f4f4fd);
 }
 .team-titel {
