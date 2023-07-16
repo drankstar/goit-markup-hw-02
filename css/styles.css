@@ -212,6 +212,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: var(--cloud, #f4f4fd);
+  cursor: pointer;
+}
+.main-btn:hover,
+.main-btn:focus {
+  background-color: var(--ocean, #404bbf);
+  color: var(--cloud, #ffffff);
 }
 
 .main-img-title {
