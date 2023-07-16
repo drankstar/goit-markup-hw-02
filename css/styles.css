@@ -93,11 +93,13 @@ body {
   text-align: center;
 }
 .hero-but:focus {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
   background: var(--ocean, #404bbf);
 }
 .hero-but:hover {
