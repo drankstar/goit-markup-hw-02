@@ -103,6 +103,7 @@ body {
   background: var(--ocean, #404bbf);
 }
 .hero-but:hover {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -111,6 +112,7 @@ body {
   background: var(--ocean, #404bbf);
 }
 .hero-but {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
